@@ -4,6 +4,8 @@
 Este é um projeto simples que exibe uma página web em homenagem ao Dia Internacional da Mulher usando Flask, HTML e CSS.
 
 # 📋 Sobre o Projeto
+![image](https://github.com/user-attachments/assets/fea7d4a5-283b-4e80-8720-d86a16c6741b)<br/>
+<br/>
 Esta aplicação web mostra uma mensagem comemorativa para o Dia Internacional da Mulher, com:
 <br/>
 <br/>
